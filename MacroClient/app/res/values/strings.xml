@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Macro Client</string>
+    <string name="shared_preferences">MacroClientSharedPreferences</string>
+    <string name="black_and_white_mode">Black and white mode</string>
+    <string name="refresh_data">Refresh data</string>
+    <string name="change_layout">Change layout</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="settings">Settings</string>
+</resources>

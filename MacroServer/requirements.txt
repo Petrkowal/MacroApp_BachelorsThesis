@@ -1,0 +1,7 @@
+click==8.1.7
+colorama==0.4.6
+pynput==1.7.6
+PyQt6==6.7.0
+PyQt6-Qt6==6.7.0
+PyQt6-sip==13.6.0
+six==1.16.0
